@@ -48,14 +48,13 @@ Publique imóveis de forma rápida e profissional. A plataforma gera automaticam
 
 ## Visibilidade no Google — SEO Imobiliário
 
-A Inmob360 posiciona automaticamente o corretor e seus imóveis nas pesquisas do Google para quem busca imóveis na cidade ou bairro onde ele atua.
+A Inmob360 ajuda a ampliar a presença do corretor e seus imóveis nas pesquisas do Google para quem busca imóveis na cidade ou bairro onde ele atua.
 
 ✓ Seu perfil aparece quando alguém pesquisa corretores na sua cidade  
 ✓ Seus imóveis aparecem em buscas como *"apartamentos à venda em [bairro]"*  
 ✓ Páginas otimizadas criadas automaticamente para cada cidade e bairro  
 ✓ Resultado orgânico e contínuo — sem pagar por cada visita  
 ✓ Dados estruturados para o Google entender seus imóveis  
-✓ Sitemap automático atualizado em tempo real  
 
 ---
 
@@ -63,7 +62,7 @@ A Inmob360 posiciona automaticamente o corretor e seus imóveis nas pesquisas do
 
 Para corretores que querem resultados imediatos, a Inmob360 oferece integração com Google Ads — sem precisar contratar uma agência.
 
-✓ Apareça no topo do Google antes dos concorrentes  
+✓ Crie campanhas para ganhar destaque no Google antes dos concorrentes  
 ✓ Imóveis em destaque para quem está buscando agora  
 ✓ Mais visibilidade na região onde você atua  
 ✓ Controle total do investimento — você decide quanto quer gastar  
@@ -102,7 +101,7 @@ A plataforma entrega ferramentas de marketing prontas para o corretor usar no di
 
 ✓ Imagens profissionais geradas automaticamente para cada imóvel  
 ✓ Textos prontos de divulgação para WhatsApp e Instagram  
-✓ Link de divulgação rastreável com cookie de 15 dias  
+✓ Links rastreáveis para acompanhar resultados de divulgação  
 ✓ Estatísticas de visualizações, cliques e acessos  
 ✓ Open Graph otimizado para compartilhamentos no WhatsApp  
 
