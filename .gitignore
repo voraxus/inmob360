@@ -1,0 +1,85 @@
+# ═══════════════════════════════════════════════════════
+#  .gitignore — Inmob360
+#  !! NUNCA commitar arquivos abaixo — contêm segredos !!
+# ═══════════════════════════════════════════════════════
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+*.env
+secrets.py
+config_local.py
+
+# Credenciais Google / OAuth
+client_secret*.json
+*credentials*.json
+token.json
+refresh_token.json
+service_account*.json
+
+# Certificados SSL
+inmob360-ssl-domain/
+*.pem
+*.crt
+*.key
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+.env/
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+debug_importacao/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Uploads locais (ficam no S3 em produção)
+uploads/
+media/
+
+# Scripts de uso único
+migrar_slugs_representante.py
+creditos_teste.py
+generate_api_doc.py
+gerar_refresh_token.py
+
+# PDFs / documentos internos
+*.pdf
+inmob360_google_ads_api_design.md
+
+# Extensões e projetos paralelos (não fazem parte do core)
+extensao-Inmob360/
+extensao-Inmob360.com/
+extensao-marketing/
